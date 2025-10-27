@@ -1,0 +1,19 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# --- Node/JS (если понадобится) ---
+node_modules/
+npm-debug.log*
+yarn.lock
+dist/
+.build/
+
+# --- IDE/OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
